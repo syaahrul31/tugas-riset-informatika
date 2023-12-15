@@ -1,0 +1,22 @@
+Menentukan Dataset Penelitian
+
+Topik      : Optical Character Recognition (OCR)
+Judul      : Implementasi teknologi OCR dalam proses verifikasi tanda tangan dan konversi catatan tangan menjadi teks digital.
+Referensi  : https://www.sciencedirect.com/science/article/pii/S187705092101766X (Tentang pengenalan tulisan tangan)
+
+Verifikasi Tanda Tangan
+- Link dataset : (https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures)
+- Untuk melakukan eksperimen terkait implementasi teknologi OCR dalam proses verifikasi tanda tangan, digunakan Dataset "Handwritten signatures" yang diambil dari kaggle.com.
+- Dataset ini berisi tanda tangan Asli dan Palsu dari 30 orang. Setiap orang mempunyai 5 tanda tangan Asli yang dibuat sendiri dan 5 tanda tangan palsu buatan orang lain.
+- Adapun Penamaan gambar memiliki ketentuan sebagai berikut.
+  o	NFI-00602023 adalah gambar tanda tangan orang nomor 023 yang dilakukan oleh orang 006. Ini tanda tangan palsu.
+  o	NFI-02103021 adalah gambar tanda tangan orang nomor 021 yang dilakukan oleh orang 021. Ini adalah tanda tangan asli.
+
+Konversi Tulisan Tangan
+- Link dataset : (https://www.kaggle.com/datasets/landlord/handwriting-recognition)
+- Untuk melakukan eksperimen terkait konversi catatan tangan menjadi teks digital, digunakan Dataset "Handwriting Recognition" yang diambil dari kaggle.com.
+- Dataset ini terdiri dari lebih dari empat ratus ribu nama tulisan tangan yang dikumpulkan melalui proyek amal.
+- Ada total 206.799 nama depan dan 207.024 nama keluarga. Adapun data dibagi menjadi set pelatihan (331.059), set pengujian (41.382), dan set validasi (41.382). 
+
+Terima kasih :)
+
