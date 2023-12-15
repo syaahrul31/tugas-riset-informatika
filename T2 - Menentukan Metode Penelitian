@@ -1,0 +1,21 @@
+Menentukan Metode Penelitian
+
+Topik      : Optical Character Recognition (OCR)
+Judul      : Implementasi teknologi OCR dalam proses verifikasi tanda tangan dan konversi catatan tangan menjadi teks digital.
+Referensi  : https://www.sciencedirect.com/science/article/pii/S187705092101766X (Tentang pengenalan tulisan tangan)
+
+Metode Penelitian yang Digunakan terdiri atas Metode Kuantitatif & Kualitatif.
+
+1. Metode Penelitian Kuantitatif
+    - Metode penelitian kuantitatif digunakan untuk menjawab research questions pertama, kedua, dan ketiga.
+    - Metode ini menggunakan data kuantitatif untuk menganalisis hubungan antara variabel-variabel yang diteliti.
+    - Untuk menjawab research questions pertama, dilakukan eksperimen untuk membandingkan akurasi pengenalan karakter dan kata dalam dokumen OCR yang menggunakan model deep learning dengan yang tidak menggunakan model deep learning.
+    - Untuk menjawab research questions kedua, dilakukan analisis korelasi untuk mengetahui apakah ada hubungan antara metode konversi karakter dan kata dengan ketepatan proses konversi.
+    - Untuk menjawab research questions ketiga, dilakukan analisis regresi untuk mengetahui faktor-faktor yang mempengaruhi kinerja teknologi OCR dalam skala besar.
+
+2. Metode Penelitian Kualitatif
+    - Metode penelitian kualitatif dapat digunakan untuk menjawab research questions keempat.
+    - Metode ini menggunakan data kualitatif untuk memahami fenomena yang diteliti secara mendalam.
+    - Untuk menjawab research questions keempat, dilakukan studi literatur maupun wawancara dengan para ahli dan pengguna teknologi OCR untuk mengetahui dampak dan solusi untuk menghadapi isu-isu kebijakan privasi serta masalah etika terkait penggunaan teknologi OCR dalam mengelola data personal atau sensitif.
+
+Terima kasih :)
