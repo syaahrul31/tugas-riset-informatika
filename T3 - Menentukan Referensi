@@ -1,0 +1,31 @@
+Menentukan Referensi 
+
+Topik      : Optical Character Recognition (OCR)
+Judul      : Implementasi teknologi OCR dalam proses verifikasi tanda tangan dan konversi catatan tangan menjadi teks digital.
+Referensi  : https://www.sciencedirect.com/science/article/pii/S187705092101766X (Tentang pengenalan tulisan tangan)
+
+Dalam menentukan referensi, dilakukan studi literatur melalui berbagai sumber untuk mendapatkan informasi yang relevan terkait dengan implementasi OCR dalam proses verifikasi tanda tangan dan konversi catatan tangan menjadi teks digital.
+
+Berikut hasil riset pada tahap studi literatur.
+
+1. Akurasi pengenalan karakter dan kata dalam dokumen OCR
+    - Sejumlah penelitian telah dilakukan untuk meningkatkan akurasi pengenalan karakter dan kata dalam dokumen OCR. Salah satu penelitian yang menggunakan model deep learning adalah penelitian yang dilakukan oleh (Mohammed Aarif & Poruran, 2020). Penelitian ini menunjukkan bahwa model deep learning, khususnya Convolutional Neural Networks (CNN) dapat meningkatkan akurasi pengenalan karakter dan kata dalam dokumen OCR secara signifikan. Lewat proses transfer learning, OCR mampu mengatasi masalah representasi yang sulit dengan 1000 kelas objek, serta mampu mengenali karakter tulisan dengan baik dalam mode offline maupun online.
+    - Penelitian lain yang juga menggunakan model deep learning adalah penelitian yang dilakukan oleh (Gajendran et al., 2020). Penelitian ini menunjukkan bahwa pendekatan melalui jaringan saraf tiruan dapat membantu dalam pengenalan karakter dan kata dalam dokumen OCR. Selain itu, penggunaaan embedding karakter dan kata juga dapat meningkatkan kemampuan jaringan saraf tiruan untuk mengenali karakter dan kata dalam dokumen OCR.
+
+2. Ketepatan proses konversi karakter dan kata ke bentuk teks digital dalam OCR
+    - Sejumlah penelitian juga telah dilakukan untuk meningkatkan ketepatan proses konversi karakter dan kata ke bentuk teks digital dalam OCR. Salah satu penelitian yang dilakukan adalah penelitian yang dilakukan oleh (Ignasius et al., 2023). Penelitian ini menunjukkan bahwa ketepatan proses OCR dapat bervariasi, tergantung pada kualitas gambar yang diberikan ke alat OCR. Ketepatan OCR dapat ditingkatkan dengan menggunakan metode pre-processing gambar seperti binarisasi, reduksi noise, dan koreksi kemiringan sebelum menggunakan OCR.
+    - Penelitian lain yang juga dilakukan adalah penelitian yang dilakukan oleh (Sugiyono et al., 2023). Penelitian ini menjelaskan bahwa Algoritma binarisasi Otsu memungkinkan program untuk melakukan proses thresholding secara optimal, sehingga gambar dapat dideteksi dan dikenali secara lebih akurat tanpa kesalahan. Hal ini tentu akan memengaruhi tingkat akurasi pada hasil konversi karakter dan kata ke bentuk digital.
+
+3. Penggunaan teknologi OCR dalam skala besar
+    - Sejumlah penelitian juga telah dilakukan untuk mengoptimalkan penggunaan teknologi OCR dalam skala besar. Salah satu penelitian yang dilakukan adalah penelitian yang dilakukan oleh (Singh & Bist, 2019). Penelitian ini menjelaskan bahwa teknologi machine learning dan deep learning dapat meningkatkan kinerja pengembangan teknologi OCR dalam skala besar. Penggunaan teknik-teknik Machine Learning seperti Decision Trees, Nearest Neighbour, Random forest, Artificial Neural, dan Support Vector Machine dapat memberikan kontribusi terhadap perkembangan teknologi OCR dalam skala besar.
+    - Penelitian lain yang juga dilakukan adalah penelitian yang dilakukan oleh (Mariani et al., 2023). Penelitian ini menjelaskan bahwa dalam konteks penggunaan teknologi OCR dan data konsumen, penting untuk mempertimbangkan kepatuhan terhadap regulasi privasi data seperti GDPR di Uni Eropa atau regulasi privasi data lainnya yang berlaku di yurisdiksi yang relevan. Selain itu, aspek etika penggunaan data konsumen dan perlindungan privasi juga harus menjadi perhatian utama dalam penelitian yang melibatkan analisis data konsumen.
+
+
+Berikut Lampiran Pustaka dari riset di atas
+  Gajendran, S., D, M., & Sugumaran, V. (2020). Character level and word level embedding with bidirectional LSTM – Dynamic recurrent neural network for biomedical named entity recognition from literature. Journal of Biomedical Informatics, 112. https://doi.org/10.1016/j.jbi.2020.103609
+  Ignasius, A., Chandra, J. C., Oscadinata, R., & Suhartono, D. (2023). Image Pre-Processing Effect on OCR’s Performance for Image Conversion to Braille Unicode. Procedia Computer Science, 227, 922–931. https://doi.org/10.1016/j.procs.2023.10.599
+  Mariani, M. M., Borghi, M., & Laker, B. (2023). Do submission devices influence online review ratings differently across different types of platforms? A big data analysis. Technological Forecasting and Social Change, 189. https://doi.org/10.1016/j.techfore.2022.122296
+  Mohammed Aarif, K. O., & Poruran, S. (2020). OCR-Nets: Variants of Pre-trained CNN for Urdu Handwritten Character Recognition via Transfer Learning. Procedia Computer Science, 171, 2294–2301. https://doi.org/10.1016/j.procs.2020.04.248
+  Singh, A., & Bist, A. S. (2019). A Wide Scale Survey on Handwritten Character Recognition using Machine Learning. International Journal of Computer Sciences and Engineering, 7(6), 124–134. https://doi.org/10.26438/ijcse/v7i6.124134
+
+
