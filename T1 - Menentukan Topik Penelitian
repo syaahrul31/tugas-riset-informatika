@@ -8,9 +8,9 @@ Resume     :
 Dalam project ini, saya mengangkat topik terkait Implementasi teknologi OCR (Optical Character Recognition) dalam proses verifikasi tanda tangan dan konversi catatan tangan menjadi teks digital. Topik ini diangkat dengan mempertimbangkan berbagai tantangan dan isu penting yang masih kerap kali ditemui dalam penerapan teknologi OCR. Berbagai tantangan yang perlu diperhatikan dalam pengembangan teknologi ini diantaranya terkait dengan keandalannya dalam melakukan proses pengenalan karakter dan kata dalam dokumen, kemudian mengonversinya dalam bentuk teks digital yang akurat. Selain itu, juga pertimbangan terkait efisiensi dari algoritma OCR dalam melakukan proses pengarsipan data dengan skala besar, dan juga pertimbangan mengenai isu-isu etika dalam menjaga keamanan dan privasi data.
 
 Berdasarkan pernyataan di atas, dapat dirumuskan sejumlah persoalan praktis sebagai berikut:
-1.	Akurasi pengenalan karakter & kata dalam dokumen OCR masih rendah.
-2.	Ketepatan proses konversi karakter dan kata ke bentuk teks digital dalam OCR belum maksimal
-3.	Pengaruh pada isu-isu kebijakan privasi dan etika terkait penggunaan teknologi OCR dalam mengelola data.
+1.  Akurasi pengenalan karakter & kata dalam dokumen OCR masih rendah.
+2.  Ketepatan proses konversi karakter dan kata ke bentuk teks digital dalam OCR belum maksimal
+3.  Pengaruh pada isu-isu kebijakan privasi dan etika terkait penggunaan teknologi OCR dalam mengelola data.
 
 Berdasarkan persoalan praktis di atas, dapat dirumuskan beberapa research questions sebagai berikut:
 1.  Bagaimana meningkatkan keandalan teknologi OCR dalam mengenali karakter dan kata dalam dokumen bertulisan tangan yang memiliki variasi gaya penulisan yang luas?
