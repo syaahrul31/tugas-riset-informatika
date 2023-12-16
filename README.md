@@ -8,7 +8,7 @@
 **Kelas      :** C081
 
 # Judul Penelitian
-**Implementasi teknologi OCR dalam proses verifikasi tanda tangan dan konversi catatan tangan menjadi teks digital.**
+**Implementasi Teknologi OCR dalam Proses Verifikasi Tanda Tangan dan Konversi Catatan Tangan Menjadi Teks Digital.**
 
 # Content
 + **Topik Penelitian (Ringkasan, Gap/Masalah, Tujuan)** <br>
