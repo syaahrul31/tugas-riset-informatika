@@ -13,15 +13,13 @@ Berdasarkan pernyataan di atas, dapat dirumuskan sejumlah persoalan praktis seba
 3.	Pengaruh pada isu-isu kebijakan privasi dan etika terkait penggunaan teknologi OCR dalam mengelola data.
 
 Berdasarkan persoalan praktis di atas, dapat dirumuskan beberapa research questions sebagai berikut:
-1.	Apakah penggunaan model deep learning dapat meningkatkan akurasi pengenalan karakter dan kata dalam dokumen OCR?
-2.	Apakah ada metode tertentu yang dapat meningkatkan ketepatan proses konversi karakter dan kata ke bentuk teks digital dalam OCR?
-3.	Bagaimana cara mengoptimalkan penggunaan teknologi OCR dalam skala besar untuk meningkatkan kinerja yang optimal?
-4.	Apa dampak dan solusi untuk menghadapi isu-isu kebijakan privasi serta masalah etika terkait penggunaan teknologi OCR dalam mengelola data?
+1.  Bagaimana meningkatkan keandalan teknologi OCR dalam mengenali karakter dan kata dalam dokumen bertulisan tangan yang memiliki variasi gaya penulisan yang luas?
+2.  Bagaimana mengoptimalkan algoritma OCR agar dapat mengolah data dalam skala besar dengan kecepatan dan akurasi yang optimal dalam proses pengarsipan?
+3.  Bagaimana mengatasi isu-isu etika terkait penggunaan teknologi OCR dalam konteks perlindungan data pribadi dan mematuhi regulasi privasi yang ada?
 
 Berdasarkan rumusan masalah di atas, dapat dirumuskan tujuan penelitian ini sebagai berikut:
-1.  Meningkatkan Akurasi OCR dengan Model Deep Learning
-2.  Meningkatkan optimasi Konversi Karakter dan Kata dalam OCR
-3.  Mengoptimalkan Penggunaan Teknologi OCR dalam skala besar
-4.  Penanganan Isu Kebijakan Privasi dan Etika OCR
+1.  Mengembangkan teknologi OCR yang mampu meningkatkan kehandalan dalam pengenalan karakter dan kata pada dokumen bertulisan tangan dengan variasi gaya penulisan yang beragam.
+2.  Mengembangkan algoritma OCR yang dioptimalkan untuk mengolah data dalam jumlah besar secara cepat dan akurat dalam konteks pengarsipan.
+3.  Mencari solusi dan implementasi yang mempertimbangkan isu-isu etika terkait privasi data pribadi dalam penggunaan teknologi OCR, sejalan dengan regulasi privasi yang berlaku.
 
 Terima kasih :)
