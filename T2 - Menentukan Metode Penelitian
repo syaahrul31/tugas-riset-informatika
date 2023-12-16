@@ -7,15 +7,14 @@ Referensi  : https://www.sciencedirect.com/science/article/pii/S187705092101766X
 Metode Penelitian yang Digunakan terdiri atas Metode Kuantitatif & Kualitatif.
 
 1. Metode Penelitian Kuantitatif
-    - Metode penelitian kuantitatif digunakan untuk menjawab research questions pertama, kedua, dan ketiga.
+    - Metode penelitian kuantitatif digunakan untuk menjawab research questions pertama dan kedua.
     - Metode ini menggunakan data kuantitatif untuk menganalisis hubungan antara variabel-variabel yang diteliti.
-    - Untuk menjawab research questions pertama, dilakukan eksperimen untuk membandingkan akurasi pengenalan karakter dan kata dalam dokumen OCR yang menggunakan model deep learning dengan yang tidak menggunakan model deep learning.
-    - Untuk menjawab research questions kedua, dilakukan analisis korelasi untuk mengetahui apakah ada hubungan antara metode konversi karakter dan kata dengan ketepatan proses konversi.
-    - Untuk menjawab research questions ketiga, dilakukan analisis regresi untuk mengetahui faktor-faktor yang mempengaruhi kinerja teknologi OCR dalam skala besar.
+    - Untuk menjawab research questions pertama, dilakukan eksperimen untuk membandingkan akurasi teknologi konvensional yang menggunakan metode deep learning dengan teknologi OCR yang menggunakan metode deep learning.
+    - Untuk menjawab research questions kedua, dilakukan analisis regresi untuk mengetahui faktor-faktor yang mempengaruhi kinerja algoritma OCR dalam mengolah data dalam skala besar.
 
 2. Metode Penelitian Kualitatif
-    - Metode penelitian kualitatif dapat digunakan untuk menjawab research questions keempat.
+    - Metode penelitian kualitatif digunakan untuk menjawab research questions ketiga.
     - Metode ini menggunakan data kualitatif untuk memahami fenomena yang diteliti secara mendalam.
-    - Untuk menjawab research questions keempat, dilakukan studi literatur maupun wawancara dengan para ahli dan pengguna teknologi OCR untuk mengetahui dampak dan solusi untuk menghadapi isu-isu kebijakan privasi serta masalah etika terkait penggunaan teknologi OCR dalam mengelola data personal atau sensitif.
+    - Untuk menjawab research questions ketiga, dilakukan studi literatur maupun wawancara dengan para ahli dan pengguna teknologi OCR untuk mengetahui dampak dan solusi untuk menghadapi isu-isu etika terkait penggunaan teknologi OCR dalam konteks perlindungan data pribadi dan mematuhi regulasi privasi yang ada.
 
 Terima kasih :)
