@@ -5,24 +5,35 @@ Judul      : Implementasi teknologi OCR dalam proses verifikasi tanda tangan dan
 Referensi  : https://www.sciencedirect.com/science/article/pii/S187705092101766X (Tentang pengenalan tulisan tangan)
 
 Dari hasil pengujian pada data validasi di dapatkan hasil evaluasi sebagai berikut,
-- Accuracy (Akurasi) : 0.57
-  Akurasi mencerminkan seberapa tepat model dalam memprediksi kelas yang benar dari semua prediksinya. Dalam kasus ini, akurasi sebesar 57% menunjukkan bahwa 57% dari prediksi model benar secara keseluruhan.
-- Precision (Presisi) : 0.57
-  Presisi mengukur tingkat ketepatan prediksi positif yang dilakukan oleh model. Hasil 0.57 menunjukkan bahwa dari semua prediksi positif yang dibuat oleh model, sekitar 57% di antaranya benar-benar merupakan kasus positif.
-- Recall (Recall) : 0.59
-  Recall mengukur seberapa baik model dapat mendeteksi kasus positif dalam dataset. Hasil 0.59 menunjukkan bahwa model mampu mendeteksi sekitar 59% dari seluruh kasus positif yang ada.
-- F1-Score: 0.58
-  F1-Score merupakan nilai rata-rata harmonis antara presisi dan recall. Nilai 0.58 menunjukkan keseimbangan antara presisi dan recall.
-- ROC AUC: 0.58
-  ROC AUC mengukur seberapa baik model dapat membedakan antara kelas positif dan negatif. Nilai 0.58 menunjukkan bahwa model memiliki kinerja yang cukup baik dalam hal membedakan kedua kelas tersebut.
-- Confusion Matrix (Matriks Confusion) : [57 45, 42 60]
-  Matriks ini memperlihatkan performa model dengan lebih rinci. Angka-angka pada matriks tersebut menunjukkan:
-  True Positives (TP)	: 60
-  True Negatives (TN)	: 57
-  False Positives (FP)	: 45
-  False Negatives (FN)	: 42
+- Accuracy (Akurasi) : 0.72
+  Akurasi mencerminkan seberapa tepat model dalam memprediksi kelas yang benar dari semua prediksinya.
+  Hasil 0.72 menunjukkan bahwa 72% dari prediksi model benar secara keseluruhan.
+- Precision (Presisi) : 0.72
+  Presisi mengukur tingkat ketepatan prediksi positif yang dilakukan oleh model.
+  Hasil 0.72 menunjukkan bahwa dari semua prediksi positif yang dibuat oleh model, sekitar 72% di antaranya benar-benar merupakan kasus positif.
+- Recall (Recall) : 0.70
+  Recall mengukur seberapa baik model dapat mendeteksi kasus positif dalam dataset.
+  Hasil 0.70 menunjukkan bahwa model mampu mendeteksi sekitar 70% dari seluruh kasus positif yang ada.
+- F1-Score: 0.71
+  F1-Score merupakan nilai rata-rata harmonis antara presisi dan recall.
+  Nilai 0.71 menunjukkan keseimbangan antara presisi dan recall.
+- ROC AUC: 0.75
+  ROC AUC mengukur seberapa baik model dapat membedakan antara kelas positif dan negatif.
+  Nilai 0.75 menunjukkan bahwa model memiliki kinerja yang cukup baik dalam hal membedakan kedua kelas tersebut.
+- Confusion Matrix : [22 8, 9 21]
+  Matriks ini memperlihatkan performa model dengan lebih rinci.
+  True Positives (TP)	: 22
+  True Negatives (TN)	: 9
+  False Positives (FP)	: 8
+  False Negatives (FN)	: 21
+  Hal ini menunjukkan model dapat memprediksi dengan benar 22 tanda tangan asli dan 9 tanda tangan palsu. Namun, model salah memprediksi 8 tanda tangan asli dan 21 tanda tangan palsu.
 
-Analisis & Kesimpulan
-Model saat ini memiliki kinerja yang kurang baik. Akurasi, presisi, recall, F1-score, dan ROC AUC semuanya berada di sekitar 0.5, menunjukkan bahwa model tidak dapat dengan baik membedakan antara kelas positif dan negatif.
+Kesimpulan
+Berdasarkan hasil analisis, dapat disimpulkan bahwa model verifikasi tanda tangan Anda memiliki kinerja yang cukup baik, tetapi masih dapat ditingkatkan.
+Secara umum, model sudah dapat memprediksi dengan baik tanda tangan asli dan palsu. Namun, masih memiliki kesalahan prediksi.
+Kesalahan prediksi dapat disebabkan oleh :
+-  Kualitas gambar yang buruk
+-  Keseimbangan kelas yang tidak seimbang
+-  Arsitektur CNN yang tidak tepat
 
 Terima kasih :)
