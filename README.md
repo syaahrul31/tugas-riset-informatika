@@ -34,6 +34,6 @@
 https://github.com/syaahrul31/tugas-riset-informatika/tree/fc94862075fe2100f3b675063e3d72041c4f09cb/Paper%20Referensi
 
 # Draft Paper Publikasi
-https://github.com/syaahrul31/tugas-riset-informatika/blob/8714055e086dacb87ef8d0561d77c6fb6c39c34b/Draft%20Paper%20Publikasi.pdf
+https://github.com/syaahrul31/tugas-riset-informatika/blob/33988b9493d2f316de840ba8801be7bec6d5cc05/Draft%20Paper%20Publikasi%202.pdf
 
 **Enjoy :)**
